@@ -1,48 +1,55 @@
-# Awesome Low-Code Digital Process Automation (DPA)
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Low-Code Digital Process Automation" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Topic: Low-Code](https://img.shields.io/badge/topic-low--code-blue.svg)](https://github.com/topics/low-code)
-[![Topic: Workflow Automation](https://img.shields.io/badge/topic-workflow--automation-orange.svg)](https://github.com/topics/workflow-automation)
+# 🚀 Awesome Low-Code Digital Process Automation (DPA)
+
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/topics/low-code"><img src="https://img.shields.io/badge/topic-low--code-blue.svg" alt="Topic: Low-Code" /></a>
+  <a href="https://github.com/topics/workflow-automation"><img src="https://img.shields.io/badge/topic-workflow--automation-orange.svg" alt="Topic: Workflow Automation" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 > A curated directory of leading **Low-Code Digital Process Automation (DPA)**, **Business Process Management (BPM)**, and **Enterprise Workflow Automation** platforms. Covering top commercial SaaS solutions with verified pricing benchmarks and high-performance open-source/self-hosted alternatives.
 
-**Last updated: March 2026**
+**📅 Last updated: March 2026**
 
 ---
 
-### Why Low-Code Digital Process Automation?
+### 💡 Why Low-Code Digital Process Automation?
 
 **Digital Process Automation (DPA)** represents the evolution of Business Process Management (BPM) into an agile, cloud-native paradigm. By uniting visual process modeling (BPMN 2.0 / DMN), drag-and-drop form builders, robotic process automation (RPA), and enterprise system integration, low-code DPA platforms enable organizations to:
-- **Accelerate Time-to-Market:** Deliver mission-critical business applications and straight-through workflows 5x–10x faster than traditional hand-coding.
-- **Democratize Development:** Empower citizen developers and business analysts while enforcing enterprise IT security, governance, and audit trails.
-- **Eliminate Operational Silos:** Orchestrate end-to-end human-in-the-loop tasks and automated background microservices across legacy ERPs, CRMs, and modern cloud APIs.
-- **Preserve Data Sovereignty:** Leverage robust open-source and self-hosted workflow engines for complete regulatory compliance (GDPR, HIPAA, SOC 2) and zero vendor lock-in.
+- ⚡ **Accelerate Time-to-Market:** Deliver mission-critical business applications and straight-through workflows 5x–10x faster than traditional hand-coding.
+- 👥 **Democratize Development:** Empower citizen developers and business analysts while enforcing enterprise IT security, governance, and audit trails.
+- 🔗 **Eliminate Operational Silos:** Orchestrate end-to-end human-in-the-loop tasks and automated background microservices across legacy ERPs, CRMs, and modern cloud APIs.
+- 🛡️ **Preserve Data Sovereignty:** Leverage robust open-source and self-hosted workflow engines for complete regulatory compliance (GDPR, HIPAA, SOC 2) and zero vendor lock-in.
 
 
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [⭐ Star History](#-star-history)
+- [🤝 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 
 
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
 The global Digital Process Automation (DPA) market is valued at approximately **$17.2 billion to $21.9 billion in 2026** (growing from ~$15.4B–$19.6B in 2025 at an 11%–12.5% CAGR). The market exhibits **moderate concentration**: mega-cap enterprise vendors (Microsoft, Salesforce, Pegasystems, Appian, Siemens/Mendix) command core high-end mission-critical deployments, while a dynamic, fragmented landscape of verticalized low-code tools and open-source orchestrators captures significant agile and mid-market process workflows.
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Company Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier Limit / Free Trial | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,9 +66,7 @@ The global Digital Process Automation (DPA) market is valued at approximately **
 
 
 
-## Open-Source GitHub Projects
-
-
+## 🔓 Open-Source GitHub Projects
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation platform with a visual canvas, 400+ native integrations, and advanced webhook orchestration for automating complex business processes.
@@ -149,44 +154,46 @@ The global Digital Process Automation (DPA) market is valued at approximately **
 
 
 
-**Frameworks for building custom systems**: Combine **Corteza** for low-code application building, **Joget DX** for AI-powered process automation, **Camunda** or **Flowable** for BPMN orchestration, **Budibase** or **Lowcoder** for internal tools, and **PostgreSQL + Metabase** for process analytics to build a complete self-hosted low-code automation stack.
+🧩 **Frameworks for building custom systems**: Combine **Corteza** for low-code application building, **Joget DX** for AI-powered process automation, **Camunda** or **Flowable** for BPMN orchestration, **Budibase** or **Lowcoder** for internal tools, and **PostgreSQL + Metabase** for process analytics to build a complete self-hosted low-code automation stack.
 
 
 
-## How to Contribute
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Low-Code-Digital-Process-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Low-Code-Digital-Process-Automation&type=date&legend=top-left)
 
 
+
+## 🤝 Support & Sponsorship
+
+Thank you so much for exploring and supporting this curated resource! 🌟  
+
+If you find this repository valuable:
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute new process automation tools or pricing updates via pull requests.
+- 📢 **Share** this collection with your fellow developers, enterprise architects, and automation teams.
+- ☕ **Sponsor / Buy a coffee**: If you'd like to back ongoing research and maintenance, feel free to support directly through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your support helps keep this directory continuously updated and accurate!
+
+
+
+## 🤝 How to Contribute
 
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
-
-
 
 Star the repo if you find it useful!
 
 
 
-## Disclaimer
-
-
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - Low-code process automation tools must comply with data protection regulations (GDPR, CCPA), industry standards (SOC 2), and accessibility requirements (WCAG).
-
 - Self-hosted open-source solutions require proper security hardening, infrastructure management, and governance controls.
-
-
 
 ---
 
-
-
-**Made for business process managers, enterprise architects, citizen developers, and developers building low-code automation platforms.**  
-
+**Made with ❤️ for business process managers, enterprise architects, citizen developers, and developers building low-code automation platforms.**  
 Let's make low-code digital process automation more open, data-sovereign, and developer-friendly.
