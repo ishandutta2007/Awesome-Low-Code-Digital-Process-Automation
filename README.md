@@ -1,30 +1,24 @@
-# Awesome-Low-Code-Digital-Process-Automation
+# Awesome Low-Code Digital Process Automation (DPA)
 
-## Top Low-Code Digital Process Automation Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![Topic: Low-Code](https://img.shields.io/badge/topic-low--code-blue.svg)](https://github.com/topics/low-code)
+[![Topic: Workflow Automation](https://img.shields.io/badge/topic-workflow--automation-orange.svg)](https://github.com/topics/workflow-automation)
 
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Visual Process Modeling, Workflow Automation & Enterprise Application Delivery*  
+> A curated directory of leading **Low-Code Digital Process Automation (DPA)**, **Business Process Management (BPM)**, and **Enterprise Workflow Automation** platforms. Covering top commercial SaaS solutions with verified pricing benchmarks and high-performance open-source/self-hosted alternatives.
 
 **Last updated: March 2026**
 
+---
 
+### Why Low-Code Digital Process Automation?
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Low-Code Digital Process Automation**. These tools enable organizations to design, automate, and deploy business processes and enterprise applications through visual builders, drag-and-drop interfaces, and declarative configuration — reducing hand-coding while maintaining governance and enterprise integration.
-
-
-
-**Examples** include Salesforce OmniStudio, Appian, Pega Platform, OutSystems, Mendix, Microsoft Power Apps, Camunda Cloud, Kissflow, Nintex, and FlowForma (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom process automation, and transparent workflow orchestration — ideal for organizations seeking data sovereignty, developers building enterprise applications, and teams avoiding vendor lock-in.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+**Digital Process Automation (DPA)** represents the evolution of Business Process Management (BPM) into an agile, cloud-native paradigm. By uniting visual process modeling (BPMN 2.0 / DMN), drag-and-drop form builders, robotic process automation (RPA), and enterprise system integration, low-code DPA platforms enable organizations to:
+- **Accelerate Time-to-Market:** Deliver mission-critical business applications and straight-through workflows 5x–10x faster than traditional hand-coding.
+- **Democratize Development:** Empower citizen developers and business analysts while enforcing enterprise IT security, governance, and audit trails.
+- **Eliminate Operational Silos:** Orchestrate end-to-end human-in-the-loop tasks and automated background microservices across legacy ERPs, CRMs, and modern cloud APIs.
+- **Preserve Data Sovereignty:** Leverage robust open-source and self-hosted workflow engines for complete regulatory compliance (GDPR, HIPAA, SOC 2) and zero vendor lock-in.
 
 
 
