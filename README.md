@@ -69,97 +69,89 @@ The global Digital Process Automation (DPA) market is valued at approximately **
 
 
 
-- **[Corteza](https://github.com/cortezaproject/corteza)**  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  Fair-code workflow automation platform with a visual canvas, 400+ native integrations, and advanced webhook orchestration for automating complex business processes.
 
-  Leading open-source low-code platform (Apache 2.0) for building CRM, business process, and structured data applications. Features visual app builder, BPMN 2.0 workflow engine, JavaScript automation scripts, role-based access control down to field level, and REST API everywhere. Deliberately mirrors Salesforce objects and workflows for easy admin migration. 2,100+ GitHub stars .
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+  Open-source no-code/low-code platform that transforms any relational database (PostgreSQL, MySQL, SQLite, SQL Server) into a smart spreadsheet and process management database with webhooks and workflow automations.
 
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+  Open-source workflow management and orchestration platform with programmatic DAG scheduling, rich enterprise integrations, and monitoring for business process pipelines.
 
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+  Open-source low-code platform for building enterprise internal tools, process forms, and automated business workflows with visual app builders, JavaScript/Python logic, and 50+ data sources.
 
-- **[Joget DX](https://github.com/jogetworkflow/jw-community)**  
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+  Open-source low-code framework to build custom administrative panels, workflow dashboards, and approval portals connected to any database or REST API with drag-and-drop UI widgets.
 
-  Open-source AI-powered platform converging no-code/low-code development with AI. Visual app builder with Generative AI and Agentic AI capabilities, extensible plugin architecture, and white-label options for OEMs. Trusted by enterprises and governments .
+- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)  
+  Declarative, event-driven orchestration and workflow automation platform with YAML definitions, 500+ plugins, and an interactive UI for business operations and data pipelines.
 
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Open-source low-code platform for building business apps, forms, approval workflows, and internal portals. Supports PostgreSQL, MySQL, MongoDB, REST APIs, Docker, and Kubernetes.
 
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+  Open-source, self-hosted visual workflow automation platform designed as a modern alternative to Zapier and Make, featuring enterprise low-code triggers, AI copilots, and 200+ app connectors.
 
-- **[Lowcoder](https://github.com/Nangelov7/lowcoder)**  
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+  Low-code visual event-driven flow-based development environment for wiring together hardware devices, APIs, and online services with a rich browser-based flow editor.
 
-  Open-source all-in-one IDE for building internal and customer-facing applications (continuation of abandoned Openblocks project). Features 120+ components, free layout design, native embedding in websites without iFrames, video meeting components, query library, and self-hosting. Positioned as alternative to Retool, Tooljet, and Appsmith .
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+  Durable execution platform for orchestrating mission-critical, long-running business workflows, state machines, and human-in-the-loop digital processes with complete fault tolerance.
 
+- **[Automatisch](https://github.com/automatisch/automatisch)** [![GitHub stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)  
+  Open-source, privacy-focused business automation tool designed for self-hosting without transmitting data to third parties, offering visual workflows and multi-service connectors.
 
+- **[Activiti](https://github.com/Activiti/Activiti)** [![GitHub stars](https://img.shields.io/github/stars/Activiti/Activiti?style=social&color=white)](https://github.com/Activiti/Activiti/stargazers)  
+  Battle-tested, lightweight open-source business process management (BPMN 2.0) and workflow suite designed for cloud-native enterprise application runtimes.
 
-- **[pgkiln](https://github.com/pgkiln/pgkiln)**  
+- **[Flowable](https://github.com/flowable/flowable-engine)** [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white)](https://github.com/flowable/flowable-engine/stargazers)  
+  Compact and highly efficient open-source BPMN 2.0, CMMN 1.1, and DMN 1.2 business process and case management engine written in Java for enterprise workflow automation.
 
-  Low-code, SQL-driven application builder for PostgreSQL, modeled on Oracle APEX. Applications are data: pages, regions, items, and processes are rows in a meta schema. Includes MCP server for AI coding agents, responsive PWA support, and row-level security .
+- **[Camunda Platform 7](https://github.com/camunda/camunda-bpm-platform)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform?style=social&color=white)](https://github.com/camunda/camunda-bpm-platform/stargazers)  
+  Standard open-source framework for business process management and decision automation, providing Java and REST APIs, Web Modeler, Tasklist, and Cockpit monitoring.
 
+- **[Corteza](https://github.com/cortezaproject/corteza)** [![GitHub stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers)  
+  Open-source low-code digital operations platform (Apache 2.0) for building CRM, process management, and structured records. Features visual app builders, BPMN 2.0 workflow orchestration, and granular RBAC.
 
+- **[Lowcoder](https://github.com/lowcoder-org/lowcoder)** [![GitHub stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)  
+  Open-source low-code platform for building business tools, custom internal applications, and enterprise dashboards with drag-and-drop UI components, custom plugins, and query connectors.
 
-- **[FlowBPM](https://github.com/)**  
+- **[Jmix](https://github.com/jmix-framework/jmix)** [![GitHub stars](https://img.shields.io/github/stars/jmix-framework/jmix?style=social&color=white)](https://github.com/jmix-framework/jmix/stargazers)  
+  Open-source Java full-stack framework with rapid application development tools, visual data modeling, and automated UI scaffolding for enterprise back-office and workflow applications.
 
-  Free and Open Source (FOSS) alternative to Pega and ServiceNow, aligned with India's MeitY Open-Source Software Policy. Features workflow engine, rule engine, case management, data layer, AI integration hooks, security framework, notifications, and API gateway. Backend-complete with Docker and modular architecture .
+- **[Joget DX](https://github.com/jogetworkflow/jw-community)** [![GitHub stars](https://img.shields.io/github/stars/jogetworkflow/jw-community?style=social&color=white)](https://github.com/jogetworkflow/jw-community/stargazers)  
+  Open-source no-code/low-code platform combining workflow automation with AI assistance. Features visual process modeling, form builders, and plugin architecture for enterprise digital transformation.
 
+- **[REI3](https://github.com/r3-team/r3)** [![GitHub stars](https://img.shields.io/github/stars/r3-team/r3?style=social&color=white)](https://github.com/r3-team/r3/stargazers)  
+  Open-source low-code application platform built with Go and PostgreSQL for rapidly designing and hosting multi-user business systems without vendor lock-in.
 
+- **[ProcessMaker](https://github.com/ProcessMaker/processmaker)** [![GitHub stars](https://img.shields.io/github/stars/ProcessMaker/processmaker?style=social&color=white)](https://github.com/ProcessMaker/processmaker/stargazers)  
+  Open-source digital process automation and workflow management platform featuring drag-and-drop BPMN 2.0 modeling, responsive form building, and user approval task routing.
 
-- **[Budibase](https://github.com/Budibase/budibase)**  
+- **[formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai)** [![GitHub stars](https://img.shields.io/github/stars/AOT-Technologies/forms-flow-ai?style=social&color=white)](https://github.com/AOT-Technologies/forms-flow-ai/stargazers)  
+  Open-source low-code platform integrating form builders, Camunda BPM workflow engine, keycloak identity management, and analytics for public sector and enterprise digital processes.
 
-  Open-source low-code platform for building business apps and workflows. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, REST API, Docker, and Kubernetes. 22,700+ GitHub stars .
+- **[Convertigo](https://github.com/convertigo/convertigo)** [![GitHub stars](https://img.shields.io/github/stars/convertigo/convertigo?style=social&color=white)](https://github.com/convertigo/convertigo/stargazers)  
+  Enterprise open-source low-code and no-code platform with visual backend integration, FullSync offline data capabilities, and mobile/web application builders.
 
+- **[Baker](https://github.com/ing-bank/baker)** [![GitHub stars](https://img.shields.io/github/stars/ing-bank/baker?style=social&color=white)](https://github.com/ing-bank/baker/stargazers)  
+  ING Bank's open-source microservice workflow orchestration platform based on Petri nets, engineered for high-throughput straight-through process execution and auditability.
 
+- **[Zango](https://github.com/Healthlane-Technologies/Zango)** [![GitHub stars](https://img.shields.io/github/stars/Healthlane-Technologies/Zango?style=social&color=white)](https://github.com/Healthlane-Technologies/Zango/stargazers)  
+  Open-source Python and Django-based framework for creating secure, enterprise-grade multi-tenant web applications and backend automation microservices.
 
-- **[REI3](https://github.com/rei3/rei3)**  
+- **[Tabbled](https://github.com/tabbled/tabbled)** [![GitHub stars](https://img.shields.io/github/stars/tabbled/tabbled?style=social&color=white)](https://github.com/tabbled/tabbled/stargazers)  
+  Self-hosted low-code web application platform for building operational business systems like CRM, ERP, and inventory management with TypeScript.
 
-  Open low-code application platform. Free for individuals and organizations, designed for rapidly building multi-user applications. Open source with online and self-hosted options .
+- **[Fluxnova](https://github.com/finos/fluxnova-bpm-platform)** [![GitHub stars](https://img.shields.io/github/stars/finos/fluxnova-bpm-platform?style=social&color=white)](https://github.com/finos/fluxnova-bpm-platform/stargazers)  
+  FINOS open-source BPMN 2.0 and DMN workflow orchestration platform community-engineered for fintech and financial institutions requiring rigorous enterprise process compliance.
 
+- **[A12 Tutorial Application](https://github.com/mgm-tp/a12-tutorial-application)** [![GitHub stars](https://img.shields.io/github/stars/mgm-tp/a12-tutorial-application?style=social&color=white)](https://github.com/mgm-tp/a12-tutorial-application/stargazers)  
+  Sample application and developer documentation for mgm technology partners' A12 enterprise low-code modeling platform, powering large-scale European governmental systems.
 
-
-- **[Jmix](https://github.com/jmix-framework/jmix)**  
-
-  Open-source full-stack framework with Rapid Application Development tools for business web applications. Apache 2.0 licensed, aimed at professional developers with better IDE environment than no-code alternatives .
-
-
-
-- **[Convertigo](https://github.com/convertigo/convertigo)**  
-
-  Open-source low-code and no-code platform for web, mobile, and desktop business applications. Dual-licensed AGPLv3/commercial with source available. Features FullSync offline synchronization, enterprise connectors, MCP server for AI agents, and customer-controlled deployment .
-
-
-
-- **[A12](https://github.com/a12-platform)**  
-
-  German open-source platform for model-driven development of enterprise applications, underpinning Germany's federal tax portal ELSTER (50M+ tax returns annually). A12 Community Edition available on GitHub and EU OSS Catalogue. Released under EUPL 1.2 .
-
-
-
-- **[Zango](https://github.com/Healthlane-Technologies/Zango)**  
-
-  Python web framework for building enterprise-ready apps/microservices. Higher-level framework built on Django, enabling hosting of multiple apps on a single monolith. Handles application logic needed for enterprise readiness at framework level .
-
-
-
-- **[Tabbled](https://github.com/tabbled/tabbled)**  
-
-  Self-hosted low-code platform for business applications like CRM, ERP, and WMS. Built using JavaScript/TypeScript .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Apache Airflow](https://github.com/apache/airflow)** — Workflow orchestration with DAG-based scheduling for process automation pipelines.
-
-- **[Temporal](https://github.com/temporalio/temporal)** — Durable execution platform for orchestrating long-running workflows with human-in-the-loop steps.
-
-- **[Kestra](https://github.com/kestra-io/kestra)** — Declarative orchestration with YAML workflows and 500+ plugins.
-
-- **[n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation with 400+ integrations and visual builder.
-
-- **[Camunda Platform 7](https://github.com/camunda/camunda-bpm-platform)** — BPMN workflow and decision automation engine with human task management.
-
-- **[Flowable](https://github.com/flowable/flowable-engine)** — Open-source BPMN, CMMN, and DMN engine for workflow and case management.
-
-- **[Baker](https://github.com/ing-bank/baker)** — ING's open-source orchestration platform for straight-through processing, alternative to Camunda and Pega .
-
-- **[Fluxnova](https://github.com/finos/fluxnova)** — New open-source workflow and decision-making platform for financial institutions, alternative to Camunda and Appian .
+- **[pgkiln](https://github.com/pgkiln/pgkiln)** [![GitHub stars](https://img.shields.io/github/stars/pgkiln/pgkiln?style=social&color=white)](https://github.com/pgkiln/pgkiln/stargazers)  
+  SQL-driven low-code application builder for PostgreSQL modeled after Oracle APEX, storing pages, items, and automated process steps directly in relational metadata schemas.
 
 
 
