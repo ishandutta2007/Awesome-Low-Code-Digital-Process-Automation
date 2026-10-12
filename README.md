@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Digital Process Automation (DPA) market is valued at approximately **$17.2 billion to $21.9 billion in 2026** (growing from ~$15.4B–$19.6B in 2025 at an 11%–12.5% CAGR). The market exhibits **moderate concentration**: mega-cap enterprise vendors (Microsoft, Salesforce, Pegasystems, Appian, Siemens/Mendix) command core high-end mission-critical deployments, while a dynamic, fragmented landscape of verticalized low-code tools and open-source orchestrators captures significant agile and mid-market process workflows.
 
 
 
