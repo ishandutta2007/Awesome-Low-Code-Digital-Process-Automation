@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce OmniStudio](https://www.salesforce.com/)**  
-
-  Low-code suite within Salesforce for building guided digital experiences, omnichannel processes, and industry-specific applications with drag-and-drop components.
-
-
-
-- **[Appian](https://appian.com/)**  
-
-  Enterprise low-code automation platform with process modeling, case management, and RPA orchestration.
-
-
-
-- **[Pega Platform](https://www.pega.com/)**  
-
-  Enterprise AI-powered low-code platform for workflow automation, case management, and customer decisioning.
-
-
-
-- **[OutSystems](https://www.outsystems.com/)**  
-
-  High-performance low-code platform for building and deploying enterprise web and mobile applications.
-
-
-
-- **[Mendix](https://www.mendix.com/)**  
-
-  Low-code application development platform with visual modeling, multi-cloud deployment, and enterprise integration.
-
-
-
-- **[Microsoft Power Apps](https://powerapps.microsoft.com/)**  
-
-  Low-code platform for building custom business apps with connectors to Microsoft 365 and Dynamics 365.
-
-
-
-- **[Camunda Cloud](https://camunda.com/)**  
-
-  Managed workflow and decision automation platform based on Zeebe, supporting BPMN, DMN, and human task orchestration.
-
-
-
-- **[Kissflow](https://kissflow.com/)**  
-
-  No-code workflow and process automation platform with approvals, forms, and cross-departmental orchestration.
-
-
-
-- **[Nintex](https://www.nintex.com/)**  
-
-  Process automation platform with drag-and-drop workflow design, forms, and multi-user task assignment.
-
-
-
-- **[FlowForma](https://www.flowforma.com/)**  
-
-  No-code digital process automation platform for business users to rapidly deploy and manage processes.
+| Platform | Company Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier Limit / Free Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Power Apps](https://powerapps.microsoft.com/)** | ~$3.1T Market Cap / ~$245B Ann. Rev. (Microsoft) | $20/user/month (Power Apps Premium; or $5/user/app/month) | Free Developer Plan (perpetual free non-production sandbox environment); or 30-day free trial (extendable up to 90 days) | Enterprise low-code platform for building custom business applications with native Dataverse and 1,000+ connectors. |
+| **[Salesforce OmniStudio](https://www.salesforce.com/)** | ~$280B Market Cap / ~$38B Ann. Rev. (Salesforce) | Included with Salesforce Industry Cloud Enterprise editions (from $300/user/month) or add-on packages | 30-day trial orgs / Free perpetual Trailhead Developer Edition orgs pre-configured with OmniStudio Designer | Declarative suite for guided digital experiences, OmniScripts, FlexCards, and Integration Procedures. |
+| **[Mendix](https://www.mendix.com/)** | ~$140B Market Cap (Parent Siemens; acquired for $730M) | $1,090/month (Standard Tier for single app; billed annually) | Free for life plan (0.5 vCPU, 0.5 GB database, 1 GB file storage, sleeps after 1 hr of inactivity, up to 5 users) | Enterprise model-driven low-code application development platform with visual modeling and multi-cloud deployment. |
+| **[Pega Platform](https://www.pega.com/)** | ~$7.5B Market Cap / ~$1.4B Ann. Rev. (Pegasystems) | $90/user/month (Base case management tier; or ~$0.45/case pack entry) | 30-day free trial (Pega Community Edition, extendable once by 15 days to 45 days total; non-production) | Enterprise AI-driven workflow automation, case management, decisioning engine, and low-code app development. |
+| **[OutSystems](https://www.outsystems.com/)** | ~$4.3B Valuation (Private; backing from KKR & Goldman Sachs) | $36,300/year (Base entry tier for OutSystems Developer Cloud ODC) | Free Developer / Personal Edition (perpetual, 1 environment, up to 100 users, 2 GB DB, sleeps if inactive, non-production) | High-performance low-code platform for enterprise-grade web and mobile applications with automated DevOps. |
+| **[Appian](https://appian.com/)** | ~$2.4B Market Cap / ~$600M Ann. Rev. (Appian Corp) | ~$75/user/month (Standard entry tier, typically subject to annual minimum commitments) | Free perpetual Community Edition (personal dedicated cloud sandbox for evaluation/learning, non-production) | Enterprise low-code automation platform integrating process mining, BPMN process modeling, and RPA. |
+| **[Nintex](https://www.nintex.com/)** | ~$2B+ Valuation (Private; acquired by TPG Capital) | $625/month (Pro workflow starter tier, billed annually) | 30-day free trial (full access to Nintex Workflow Cloud & Process Manager, no credit card required) | End-to-end process intelligence and workflow automation suite featuring forms, robotic automation, and eSignatures. |
+| **[Camunda Cloud](https://camunda.com/)** | ~$1B+ Valuation (Private; Series B unicorn) | $99/month (Starter tier for execution; Enterprise custom) | Free Plan (perpetual free collaborative Web Modeler up to 5 user seats; includes 30-day process execution cluster trial) | Cloud-native workflow orchestration and decision automation platform powered by Zeebe BPMN 2.0 engine. |
+| **[Kissflow](https://kissflow.com/)** | ~$500M Valuation / ~$40M Ann. Rev. (OrangeScape) | $1,500/month (Basic entry tier, billed annually) | 14-day free trial (guided proof-of-concept environment available upon solution consultation) | Low-code/no-code digital workplace platform uniting workflow automation, case management, and form approvals. |
+| **[FlowForma](https://www.flowforma.com/)** | SME (~$10M–$20M Valuation / ~$5M Ann. Rev.) | $2,347/month (Essentials plan covering up to 3 end-to-end processes, billed annually) | 7-day free trial (full access to forms, workflow engine, and AI agents, no credit card required) | No-code digital process automation solution built directly on Microsoft 365 and SharePoint ecosystems. |
 
 
 
